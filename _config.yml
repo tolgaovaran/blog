@@ -22,12 +22,12 @@ tiles-count: 6
 facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/tolgaovaran
-googleplus_url:
+googleplus_url: test
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/tolga-ovaran-2b432a117/
-pinterest_url:
-slack_url:
-twitter_url:
+pinterest_url: test
+slack_url: test
+twitter_url: test
 
 # build settings
 markdown: kramdown
