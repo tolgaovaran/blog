@@ -2,10 +2,10 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Tolga'
-description: lololol
+description: 
 image: null
 author: null
-show_tile: true
+show_tile: false
 ---
 
-lol
+Test
