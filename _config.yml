@@ -1,7 +1,7 @@
 # site settings
 title: Tolga Ovaran
 subtitle: by HTML5 UP
-email:t.ovaran@yahoo.com
+email: t.ovaran@yahoo.com
 description: Tolga Ovaran Computer Engineer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
