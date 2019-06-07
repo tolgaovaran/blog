@@ -1,7 +1,7 @@
 ---
 title: My fist Post
 layout: "post"
-nav-menu: true
+permalink: "/test/
 ---
 
 Some content form y first page
