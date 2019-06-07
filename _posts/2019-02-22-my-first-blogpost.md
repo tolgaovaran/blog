@@ -1,7 +1,7 @@
 ---
 title: My fist Post
 layout: "post"
-permalink: "/test/
+permalink: "/test/"
 ---
 
 Some content form y first page
