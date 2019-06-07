@@ -1,14 +1,11 @@
-Test
-Test
 
 ---
 layout: home
 title: Home
 landing-title: 'Hi, my name is Tolga'
-description: 
+description: aaaaaaaaaa
 image: null
 author: null
 show_tile: false
 ---
 
-Test
