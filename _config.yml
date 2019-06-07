@@ -11,7 +11,7 @@ city: Istanbul
 state:
 zip_code:
 country: Turkey
-phone: (716) 555-5555
+phone: (541) 277-2093
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: https://gitlab.com/u/tolgaovaran
+googleplus_url:
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/tolga-ovaran-2b432a117/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
