@@ -5,7 +5,7 @@ landing-title: 'Hi, my name is Tolga'
 description: lololol
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
 lol
