@@ -1,6 +1,6 @@
 # site settings
 title: Tolga Ovaran
-subtitle:
+subtitle: This is a test text number 2
 email: t.ovaran@yahoo.com
 description: Tolga Ovaran Computer Engineer
 baseurl: "/blog" # the subpath of your site, e.g. /blog
