@@ -2,7 +2,7 @@
 layout: post
 title: About me
 description: 
-image: assets/images/picTol.jpg
+image: assets/images/picNew.jpg
 nav-menu: true
 ---
 ADD MORE PERSONAL STUFF Schools and such
