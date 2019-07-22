@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'Project that i was part of'
+description: 'See What i have done'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
