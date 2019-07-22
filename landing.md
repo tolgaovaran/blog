@@ -18,7 +18,7 @@ nav-menu: true
 	    <h1>{{ post.title }}</h1>
 	  </header>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
+	  {% if post.date %}<p>{{ post.date | date_to_string }}</p>{% endif %}
 	  <p>{{ post.content }}</p>
 	  {% endif %}
           {% endfor %}
@@ -26,6 +26,3 @@ nav-menu: true
       </section>
 
 </div>
-<div>
-	<h2>Does this update<h2>
-	</div>
