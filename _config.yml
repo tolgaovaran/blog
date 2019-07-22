@@ -1,8 +1,8 @@
 # site settings
 title: Tolga Ovaran
-subtitle: This is a test text number 2
+subtitle: a Computer Engineer
 email: t.ovaran@yahoo.com
-description: Tolga Ovaran Computer Engineer
+description: Hello welcome to my profilio website
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
