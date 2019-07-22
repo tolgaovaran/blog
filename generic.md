@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Please Change
+title: About me
 description: 
 image: assets/images/picTol.jpg
 nav-menu: true
